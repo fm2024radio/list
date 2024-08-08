@@ -1,0 +1,105 @@
+{
+    "luzon_stations": [
+      {
+        "name": "104.1 YES FM Urdaneta",
+        "url": "https://yesfmcdo.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img"
+      },
+      {
+        "name": "106.3 YES FM Dagupan",
+        "url": "https://yesfmdagupan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/barangay-ls.png"
+      },
+      {
+        "name": "89.7 YES FM Cauayan",
+        "url": "https://yesfmcauayan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "91.5 Win Radio Manila",
+        "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Iml0UC13NFRZU0ttSV9vbmxPUlZ5dnciLCJpYXQiOjE3MjI3NzI4ODYsImV4cCI6MTcyMjc3Mjk0Nn0.EbEHH2NaTWTqgMSorOoJ4PGwD0PPmomGvizxHLFdrEA",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "107.5 Win Radio Cebu City",
+        "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikw4OE5ZU2N3U3ptUlZMbktNRTFXclEiLCJpYXQiOjE3MjI3ODcxMDIsImV4cCI6MTcyMjc4NzE2Mn0.qx9_2ICGwpIwF1-UBsf4YTeVtbIsx8dSR9NOEHc6IwY",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "107.5 Win Radio Davao City",
+        "url": "https://stream-158.zeno.fm/1noxhem5qpkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxbm94aGVtNXFwa3V2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImMxb21aVDUwUmRhTXRBMmRkbENqdFEiLCJpYXQiOjE3MjI3ODY1NTAsImV4cCI6MTcyMjc4NjYxMH0.SUMIAMcSmBMWwvcQzHWhm6CwRqX2kV2xXnMQEzA0EVc",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      }
+    ],
+
+    "visayas_stations": [
+      {
+        "name": "106.3 YES FM Dumaguete",
+        "url": "https://yesfmdumaguete.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "91.1 YES FM Boracay",
+        "url": "https://yesfmboracay.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "91.5 YES FM Cebu City",
+        "url": "https://yesfmcebu.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "106.3 YES FM Dagupan",
+        "url": "https://yesfmdagupan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "91.5 Win Radio Manila",
+        "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Iml0UC13NFRZU0ttSV9vbmxPUlZ5dnciLCJpYXQiOjE3MjI3NzI4ODYsImV4cCI6MTcyMjc3Mjk0Nn0.EbEHH2NaTWTqgMSorOoJ4PGwD0PPmomGvizxHLFdrEA",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      }
+    ],
+    
+    "mindanao_stations": [
+      {
+        "name": "102.7 YES FM Zamboanga City",
+        "url": "https://yesfmzamboanga.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "104.1 YES FM Valencia",
+        "url": "https://yesfmvalencia.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "104.7 YES FM Cagayan de Oro",
+        "url": "https://yesfmcdo.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "99.3 YES FM Iligan",
+        "url": "https://yesfmiligan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "106.3 YES FM Dagupan",
+        "url": "https://yesfmdagupan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "91.5 Win Radio Manila",
+        "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Iml0UC13NFRZU0ttSV9vbmxPUlZ5dnciLCJpYXQiOjE3MjI3NzI4ODYsImV4cCI6MTcyMjc3Mjk0Nn0.EbEHH2NaTWTqgMSorOoJ4PGwD0PPmomGvizxHLFdrEA",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "107.5 Win Radio Cebu City",
+        "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikw4OE5ZU2N3U3ptUlZMbktNRTFXclEiLCJpYXQiOjE3MjI3ODcxMDIsImV4cCI6MTcyMjc4NzE2Mn0.qx9_2ICGwpIwF1-UBsf4YTeVtbIsx8dSR9NOEHc6IwY",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      },
+      {
+        "name": "107.5 Win Radio Davao City",
+        "url": "https://stream-158.zeno.fm/1noxhem5qpkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxbm94aGVtNXFwa3V2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImMxb21aVDUwUmRhTXRBMmRkbENqdFEiLCJpYXQiOjE3MjI3ODY1NTAsImV4cCI6MTcyMjc4NjYxMH0.SUMIAMcSmBMWwvcQzHWhm6CwRqX2kV2xXnMQEzA0EVc",
+        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+      }
+    ]
+  }
