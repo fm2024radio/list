@@ -94,6 +94,31 @@
         "name": "99.5 Love Radio FM Legazpi",
         "url": "https://loveradiolegaspi.radioca.st/;",
         "logo": "https://onlineradio.ph/uploads/img/love-legazpi.png"
+      },
+      {
+        "name": "106.7 Energy FM Manila",
+       "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png"
+      },
+      {
+        "name": "90.3 Energy FM Dagupan",
+        "url": "https://sg-icecast.eradioportal.com:8443/energy_dagupan",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/210/dwkt-903-energy-fm.d4588b81.png"
+      },
+      {
+        "name": "106.3 Energy FM Naga",
+        "url": "https://stream-170.zeno.fm/klewk28qlqquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrbGV3azI4cWxxcXV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhLQnptLVViUkNPOFJSTFAwLTd4V0EiLCJpYXQiOjE3MjMyMzY5ODcsImV4cCI6MTcyMzIzNzA0N30.I-t3jqDWBKrHzX5BE7vZ8j0NBbH0oV1oF6A_PIsgQtI",
+        "logo": "https://onlineradio.ph/uploads/img/energy-naga.png"
+      },
+      {
+        "name": "102.7 STAR FM Manila",
+        "url": "https://stream-146.zeno.fm/536cwdq78heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MzZjd2RxNzhoZXV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InI5ZTEtanR5VHlxNzQxSV95YlZyVVEiLCJpYXQiOjE3MjMyMzc3NDgsImV4cCI6MTcyMzIzNzgwOH0.QrOlNWcYzRV96DuxQ6GEed3aBi2im_VHy8b_b_EVqIU",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/egnmjgkhmahb.png"
+      },
+      {
+        "name": "97.1 Barangay LS Manila",
+        "url": "https://www.youtube.com/watch?v=RGYgLQQ-DJQ",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/672/dwls-barangay-ls-971-fm.75899014.jpg"
       }
     ],
 
@@ -152,6 +177,21 @@
         "name": "97.9 Love Radio FM Cebu City",
         "url": "https://loveradiocebu.radioca.st/;",
         "logo": "https://onlineradio.ph/uploads/img/love-zamboanga-city.png"
+      },
+      {
+        "name": "93.7 Energy FM Dumaguete",
+        "url": "https://cast.tunzilla.com/https://stream.3abnaustralia.org.au:8443/stream",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png"
+      },
+      {
+        "name": "94.7 Energy FM Cebu City",
+        "url": "https://cast.tunzilla.com/http://ph-icecast.eradioportal.com:8000/energyfm_manila",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/qyvad89khvvl.png"
+      },
+      {
+        "name": "95.5 STAR FM FM Cebu City",
+        "url": "https://stream-141.zeno.fm/60cb36c29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGNiMzZjMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlRkSjhpdEhGUlpLUGwwdS1mZ0RnU3ciLCJpYXQiOjE3MjMyMzgyNzMsImV4cCI6MTcyMzIzODMzM30.LTAsosEqfMAWTlDXwh_mxbyg4X7VPQyUYtvwlR2GUmA",
+        "logo": "https://onlineradio.ph/uploads/img/star-fm-cebu.jpg"
       }
     ],
     
@@ -220,6 +260,11 @@
         "name": "97.9 Love Radio FM Zamboanga",
         "url": "https://lovezamboanga.radioca.st/;",
         "logo": "https://onlineradio.ph/uploads/img/love-zamboanga-city.png"
+      },
+      {
+        "name": "96.3 STAR FM Davao City",
+        "url": "https://stream-141.zeno.fm/sdtv271nz9duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZHR2Mjcxbno5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkZwSmpPNEVZU3JPOUVFUzJYakdiSXciLCJpYXQiOjE3MjMyMzgwOTAsImV4cCI6MTcyMzIzODE1MH0.G2OV8SR9RGPUVufQyotH2ljqRhClUYKHkq1Q8iRA850",
+        "logo": "https://onlineradio.ph/uploads/img/star-fm-davao.jpg"
       }
     ]
   }
