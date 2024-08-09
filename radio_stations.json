@@ -24,15 +24,81 @@
         "name": "91.5 Win Radio Manila",
         "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Iml0UC13NFRZU0ttSV9vbmxPUlZ5dnciLCJpYXQiOjE3MjI3NzI4ODYsImV4cCI6MTcyMjc3Mjk0Nn0.EbEHH2NaTWTqgMSorOoJ4PGwD0PPmomGvizxHLFdrEA",
         "logo": "https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg"
+      },
+      {
+        "name": "90.7 Love Radio FM Manila",
+        "url": "https://22243.live.streamtheworld.com/LOVERADIO_MNL.mp3",
+        "logo": "https://onlineradio.ph/uploads/img/love.png"
+      },
+      {
+        "name": "100.7 Love Radio FM Lucena",
+        "url": "https://loveradiolucena.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-lucena.png"
+      },
+      {
+        "name": "101.7 Love Radio FM La Union",
+        "url": "https://loveradiolaunion.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-la-union.png"
+      },
+      {
+        "name": "90.7 Love Radio FM Laoag",
+        "url": "https://loveradiolaoag.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-laoag-city.png"
+      },
+      {
+        "name": "94.1 Love Radio FM Tuguegarao",
+        "url": "https://lovetuguegarao.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-tuguegarao.png"
+      },
+      {
+        "name": "94.5 Love Radio FM Santiago",
+        "url": "https://lovesantiago.radioca.st/;",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/btw2sybjhyeh.jpg"
+      },
+      {
+        "name": "95.1 Love Radio Baguio",
+        "url": "https://loveradiobaguio.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-baguio.png"
+      },
+      {
+        "name": "95.3 Love Radio FM Daet",
+        "url": "https://loveradiodaet.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-daet.png"
+      },
+      {
+        "name": "97.7 Love Radio FM Tarlac",
+        "url": "https://loveradiotarlac.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-tarlac.png"
+      },
+
+      {
+        "name": "95.3 Love Radio FM Daet",
+        "url": "https://loveradiodaet.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-daet.png"
+      },
+      {
+        "name": "98.3 Love Radio FM Dagupan",
+        "url": "https://loveradiodagupan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-dagupan.png"
+      },
+      {
+        "name": "98.3 Love Radio FM Palawan",
+        "url": "https://loveradiopalawan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-puerto-princesa.png"
+      },
+      {
+        "name": "99.1 Love Radio FM Naga",
+        "url": "https://loveradionaga.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-naga.png"
+      },
+      {
+        "name": "99.5 Love Radio FM Legazpi",
+        "url": "https://loveradiolegaspi.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-legazpi.png"
       }
     ],
 
     "visayas_stations": [
-      {
-        "name": "107.5 Win Radio Cebu City",
-        "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikw4OE5ZU2N3U3ptUlZMbktNRTFXclEiLCJpYXQiOjE3MjI3ODcxMDIsImV4cCI6MTcyMjc4NzE2Mn0.qx9_2ICGwpIwF1-UBsf4YTeVtbIsx8dSR9NOEHc6IwY",
-        "logo": "https://onlineradio.ph/uploads/img/win-radio-cebu.jpg"
-      },
       {
         "name": "106.3 YES FM Dumaguete",
         "url": "https://yesfmdumaguete.radioca.st/;",
@@ -49,9 +115,44 @@
         "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
       },
       {
-        "name": "106.3 YES FM Dagupan",
-        "url": "https://yesfmdagupan.radioca.st/;",
-        "logo": "https://onlineradio.ph/uploads/img/yes.jpg"
+        "name": "107.5 Win Radio Cebu City",
+        "url": "https://stream-163.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikw4OE5ZU2N3U3ptUlZMbktNRTFXclEiLCJpYXQiOjE3MjI3ODcxMDIsImV4cCI6MTcyMjc4NzE2Mn0.qx9_2ICGwpIwF1-UBsf4YTeVtbIsx8dSR9NOEHc6IwY",
+        "logo": "https://onlineradio.ph/uploads/img/win-radio-cebu.jpg"
+      },
+      {
+        "name": "100.1 Love Radio FM Kalibo",
+        "url": "https://loveradionaga.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-kalibo.png"
+      },
+      {
+        "name": "105.7 Love Radio FM Roxas",
+        "url": "https://loveradioroxas.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-roxas.png"
+      },
+      {
+        "name": "91.1 Love Radio FM Tacloban",
+        "url": "https://lovetacloban.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-tacloban.png"
+      },
+      {
+        "name": "91.9 Love Radio FM Bacolod",
+        "url": "https://loveradiobacolod.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-bacolod.png"
+      },
+      {
+        "name": "94.1 Love Radio FM Catarman",
+        "url": "https://lovecatarman.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-catarman.png"
+      },
+      {
+        "name": "97.5 Love Radio FM Iloilo",
+        "url": "https://loveradioiloilo.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-iloilo-city.png"
+      },
+      {
+        "name": "97.9 Love Radio FM Cebu City",
+        "url": "https://loveradiocebu.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-zamboanga-city.png"
       }
     ],
     
@@ -80,6 +181,47 @@
         "name": "107.5 Win Radio Davao City",
         "url": "https://stream-158.zeno.fm/1noxhem5qpkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxbm94aGVtNXFwa3V2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImMxb21aVDUwUmRhTXRBMmRkbENqdFEiLCJpYXQiOjE3MjI3ODY1NTAsImV4cCI6MTcyMjc4NjYxMH0.SUMIAMcSmBMWwvcQzHWhm6CwRqX2kV2xXnMQEzA0EVc",
         "logo": "https://onlineradio.ph/uploads/img/win-radio-davao-107-5-fm.jpg"
+      },
+      {
+        "name": "107.9 Win Radio FM Cagayan de Oro",
+        "url": "https://stream-162.zeno.fm/delhmcm1qhntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkZWxobWNtMXFobnR2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRiUXRVaUlBVDU2b290cGF5eW9ST3ciLCJpYXQiOjE3MjMyMzI2NDAsImV4cCI6MTcyMzIzMjcwMH0.SDDr9fxd4v9cucbAkORpb-m84ofna9xvgyKdSJCfvJo",
+        "logo": "https://onlineradio.ph/uploads/img/win-radio-cdo-107-9.jpg"
+      },
+      {
+        "name": "107.9 Win Radio FM Iloilo City",
+        "url": "https://stream-157.zeno.fm/vmifa1pxyjtuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2bWlmYTFweHlqdHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBlMXVtdjdqVFFXbVFOamVOVHpUd0EiLCJpYXQiOjE3MjMyMzI4MjIsImV4cCI6MTcyMzIzMjg4Mn0.QMtYIjyn7XLMCItjyIhHg5OdSNAb6ODzn8UVFrl4S4s",
+        "logo": "https://onlineradio.ph/uploads/img/win-radio-iloilo.jpg"
+      },
+      {
+        "name": "100.1 Love Radio FM Koronadal",
+        "url": "https://lovekoronadal.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-koronadal.png"
+      },
+      {
+        "name": "101.5 Love Radio FM General Santos",
+        "url": "https://loveradiogensan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-general-santos.png"
+      },
+
+      {
+        "name": "106.3 Love Radio FM Malaybalay",
+        "url": "https://lovemalaybalay.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-malaybalay.png"
+      },
+      {
+        "name": "90.7 Love Radio FM Davao City",
+        "url": "https://loveradiodavao.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-davao.png"
+      },
+      {
+        "name": "95.1 Love Radio FM Butuan",
+        "url": "https://loveradiobutuan.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-butuan.png"
+      },
+      {
+        "name": "97.9 Love Radio FM Zamboanga",
+        "url": "https://lovezamboanga.radioca.st/;",
+        "logo": "https://onlineradio.ph/uploads/img/love-zamboanga-city.png"
       }
     ]
   }
